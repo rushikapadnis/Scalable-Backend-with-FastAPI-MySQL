@@ -27,14 +27,4 @@ A production-ready backend system built using FastAPI, demonstrating REST API de
 
 ---
 
-## 📁 Project Structure
-FASTAPI-SQL_Project/
-│── alembic/ # Database migrations
-│── main.py # Entry point of the application
-│── models.py # Database models
-│── schemas.py # Pydantic schemas
-│── database.py # Database connection setup
-│── dependencies.py # Dependency injection
-│── requirements.txt # Project dependencies
-│── alembic.ini # Alembic configuration
 
